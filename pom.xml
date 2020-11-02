@@ -11,7 +11,7 @@
   <name>docker-jenkins-integration-sample-new</name>
 
   <build>
-    <finalName>docker-jenkins-integration-sample</finalName>
+    <finalName>docker-jenkins-integration-sample-new</finalName>
   </build>
 
 </project>
